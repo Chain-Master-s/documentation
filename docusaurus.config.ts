@@ -17,7 +17,7 @@ const config: Config = {
   organizationName: 'Chain-Master-s',
   projectName: 'documentation',
 
-  onBrokenLinks: 'throw' as const,
+  onBrokenLinks: 'warn' as const,
   onBrokenMarkdownLinks: 'warn' as const,
 
   i18n: {

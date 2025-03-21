@@ -39,7 +39,7 @@ We're not just learning - we're building! Our flagship project involves creating
 ## Get Started
 
 - [Start Learning](./getting-started.md)
-- [Contribution Guidelines](./community/contributing.md)
-- [Community Rules](./community/guidelines.md)
+- [Contribution Guidelines](./contributing.md)
+- [Community Rules](./guidelines.md)
 
 Join us in our mission to revolutionize blockchain development in Africa! 🚀
