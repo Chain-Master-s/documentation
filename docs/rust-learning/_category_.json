@@ -1,0 +1,8 @@
+{
+    "label": "Rust Learning",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "A comprehensive 6-week Rust learning track designed specifically for blockchain development. Our curriculum covers everything from basic ownership concepts to advanced topics like smart contract development, with hands-on projects in each module. Start your journey to become a blockchain developer with Rust."
+    }
+  }

@@ -1,0 +1,8 @@
+{
+    "label": "Blockchain Development",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Build a blockchain from scratch! This section covers the complete blockchain development pipeline, from networking and consensus to smart contracts and cross-chain integration. Each module includes hands-on implementation in Rust, focusing on real-world blockchain engineering practices."
+    }
+  }
